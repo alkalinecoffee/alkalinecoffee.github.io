@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="720px" height="401px" viewBox="0 0 720 401" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>leaderboard-only-bg-exsm</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#496B4E" offset="0%"></stop>
+            <stop stop-color="#28412C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="10.5729167%" y1="37.2532895%" x2="85.2473958%" y2="84.8478618%" id="linearGradient-2">
+            <stop stop-color="#1B3820" offset="0%"></stop>
+            <stop stop-color="#44684B" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-30.2%" y="-35.2%" width="160.4%" height="170.5%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="1.40904" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-30.2%" y="-35.2%" width="160.4%" height="170.5%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="1.40904" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="50%" y1="52.0344111%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#527756" offset="0%"></stop>
+            <stop stop-color="#273F29" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="99.2864884%" id="linearGradient-6">
+            <stop stop-color="#2E5134" offset="0%"></stop>
+            <stop stop-color="#1C341F" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="15.3818822%" y1="50%" x2="99.079852%" y2="50%" id="linearGradient-7">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#F3EEEC" offset="24.4264812%"></stop>
+            <stop stop-color="#CCC6C2" offset="73.7965137%"></stop>
+            <stop stop-color="#C7C2BF" offset="100%"></stop>
+        </linearGradient>
+        <radialGradient cx="29.8231337%" cy="7.74414062%" fx="29.8231337%" fy="7.74414062%" r="88.4079317%" gradientTransform="translate(0.298231,0.077441),scale(1.000000,0.666667),rotate(64.824178),scale(1.000000,1.450104),translate(-0.298231,-0.077441)" id="radialGradient-8">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="23.1168714%"></stop>
+            <stop stop-color="#EAE7E2" offset="40.2727601%"></stop>
+            <stop stop-color="#BBB7B4" offset="58.0811958%"></stop>
+            <stop stop-color="#93908D" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="29.8231337%" cy="7.74414062%" fx="29.8231337%" fy="7.74414062%" r="106.624424%" gradientTransform="translate(0.298231,0.077441),scale(0.900000,1.000000),rotate(66.254132),scale(1.000000,1.450104),translate(-0.298231,-0.077441)" id="radialGradient-9">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="23.1168714%"></stop>
+            <stop stop-color="#EAE7E2" offset="40.2727601%"></stop>
+            <stop stop-color="#BBB7B4" offset="58.0811958%"></stop>
+            <stop stop-color="#93908D" offset="100%"></stop>
+        </radialGradient>
+        <linearGradient x1="0%" y1="50%" x2="99.702084%" y2="50%" id="linearGradient-10">
+            <stop stop-color="#D6D3D0" offset="0%"></stop>
+            <stop stop-color="#F8F5F1" offset="0.541111621%"></stop>
+            <stop stop-color="#F8F5F1" offset="61.7097182%"></stop>
+            <stop stop-color="#EBE6E2" offset="100%"></stop>
+        </linearGradient>
+        <path d="M350.150582,0 C525.130434,4.23070086e-14 689.891298,34.783793 700,37.0875127 C700,37.0875127 700,37.3890372 700,37.9920862 L0,38 L0,37.0875127 C10.4020979,34.783793 175.17073,-4.61682246e-14 350.150582,0 Z" id="path-11"></path>
+    </defs>
+    <g id="Vector-Designs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-992x665" transform="translate(-136.000000, -207.000000)">
+            <g id="new_lb_992x665" transform="translate(136.000000, 207.000000)">
+                <g id="leaderboard-only-bg-exsm">
+                    <g id="bottom_lb" transform="translate(0.000000, 349.000000)">
+                        <rect id="lb_green_bg" fill="url(#linearGradient-1)" fill-rule="nonzero" x="0" y="7.10542736e-15" width="720" height="52"></rect>
+                        <g id="pillar-shadows" fill="url(#linearGradient-2)" fill-rule="nonzero">
+                            <ellipse id="pillar-right-shadow" filter="url(#filter-3)" cx="718" cy="-1" rx="7" ry="6"></ellipse>
+                            <ellipse id="pillar-left-shadow" filter="url(#filter-4)" cx="8" cy="-1" rx="7" ry="6"></ellipse>
+                        </g>
+                        <g id="divider-2" transform="translate(543.000000, 1.000000)" fill-rule="nonzero">
+                            <rect id="Rectangle-4" fill="url(#linearGradient-5)" x="1" y="0" width="1" height="51"></rect>
+                            <rect id="Rectangle-4-Copy" fill="url(#linearGradient-6)" x="0" y="0" width="1" height="51"></rect>
+                        </g>
+                        <g id="divider-1" transform="translate(175.000000, 1.000000)" fill-rule="nonzero">
+                            <rect id="Rectangle-4" fill="url(#linearGradient-5)" x="1" y="0" width="1" height="51"></rect>
+                            <rect id="Rectangle-4-Copy" fill="url(#linearGradient-6)" x="0" y="0" width="1" height="51"></rect>
+                        </g>
+                        <rect id="line-copy" fill="#23432B" x="0" y="0" width="720" height="1"></rect>
+                    </g>
+                    <g id="pillars" transform="translate(0.000000, 27.000000)" fill-rule="nonzero">
+                        <g id="right" transform="translate(710.000000, 0.000000)">
+                            <polygon id="Rectangle-5-Copy-3" fill="url(#linearGradient-7)" points="-5.26365407e-15 10 10 10 10 322 -5.26365407e-15 322"></polygon>
+                            <ellipse id="Oval-3-Copy" fill="url(#radialGradient-8)" cx="5" cy="1.5" rx="1" ry="1.5"></ellipse>
+                            <ellipse id="Oval-2-Copy" fill="url(#radialGradient-9)" cx="5" cy="5.5" rx="5" ry="4.5"></ellipse>
+                        </g>
+                        <g id="left">
+                            <polygon id="Rectangle-5-Copy-3" fill="url(#linearGradient-7)" points="-5.26365407e-15 10 10 10 10 322 -5.26365407e-15 322"></polygon>
+                            <ellipse id="Oval-3-Copy" fill="url(#radialGradient-8)" cx="5" cy="1.5" rx="1" ry="1.5"></ellipse>
+                            <ellipse id="Oval-2-Copy" fill="url(#radialGradient-9)" cx="5" cy="5.5" rx="5" ry="4.5"></ellipse>
+                        </g>
+                    </g>
+                    <g id="lb_board_bg" transform="translate(10.000000, 0.000000)" fill-rule="nonzero">
+                        <rect id="lb_bg" fill="#F7F4F0" x="0" y="38" width="700" height="311"></rect>
+                        <path d="M350.150582,0 C525.130434,4.23070086e-14 689.891298,34.783793 700,37.0875127 C700,37.0875127 700,37.3890372 700,37.9920862 L0,38 L0,37.0875127 C10.4020979,34.783793 175.17073,-4.61682246e-14 350.150582,0 Z" id="lb_top_bg" fill="url(#linearGradient-10)"></path>
+                    </g>
+                    <g id="dividers" transform="translate(10.000000, 0.000000)">
+                        <mask id="mask-12" fill="white">
+                            <use xlink:href="#path-11"></use>
+                        </mask>
+                        <g id="lb_top_bg-copy" fill-rule="nonzero"></g>
+                        <g id="divider-3" mask="url(#mask-12)">
+                            <g transform="translate(520.000000, 8.000000)">
+                                <rect id="Rectangle-8-Copy-3" fill="#FFFFFF" x="1" y="0" width="1" height="32"></rect>
+                                <rect id="Rectangle-8-Copy-2" fill="#D1CDCA" x="0" y="0" width="1" height="32"></rect>
+                            </g>
+                        </g>
+                        <g id="divider-2" mask="url(#mask-12)">
+                            <g transform="translate(349.000000, -1.000000)">
+                                <rect id="Rectangle-8-Copy-3" fill="#FFFFFF" x="1" y="0" width="1" height="40"></rect>
+                                <rect id="Rectangle-8-Copy-2" fill="#D1CDCA" x="0" y="0" width="1" height="40"></rect>
+                            </g>
+                        </g>
+                        <g id="divider-1" mask="url(#mask-12)">
+                            <g transform="translate(178.000000, 8.000000)">
+                                <rect id="Rectangle-8-Copy-3" fill="#FFFFFF" x="1" y="0" width="1" height="32"></rect>
+                                <rect id="Rectangle-8-Copy-2" fill="#D1CDCA" x="0" y="0" width="1" height="32"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
